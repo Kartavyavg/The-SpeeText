@@ -1,12 +1,6 @@
-Awesome! Since you're planning to upload this to **GitHub**, here’s a polished `README.md` that includes **badges**, a **license section**, and a **GitHub-friendly tone**:
 
----
 
 # 🎙️ SpeeText
-
-[![GitHub license](https://img.shields.io/github/license/your-username/speetext)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/your-username/speetext)](https://github.com/your-username/speetext/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/speetext)](https://github.com/your-username/speetext/network)
 
 **Real-Time Speech to Text and Text to Speech Converter 🚀**
 
